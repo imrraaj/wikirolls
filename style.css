@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&family=Oswald:wght@700&display=swap');
+
+@import "tailwindcss";
+@theme {
+  --font-main: "Oswald", sans-serif;
+  --font-secondary: "Fira Sans", sans-serif;
+}
